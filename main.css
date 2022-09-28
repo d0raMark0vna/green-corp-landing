@@ -271,8 +271,3 @@ footer {
     flex-direction: column;
   }
 }
-
-.animate_animated {
-  animation-duration: 2s;
-  animation-iteration-count: 1;
-}
